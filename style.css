@@ -1,0 +1,18 @@
+#timer{
+    text-align: center;
+    font-size: 180px;
+   color:beige;
+   background: linear-gradient(to right,orangered , orangered 50%, green 50%, green);
+}
+
+div{
+    align-self: center;
+    height: 700px;
+}
+img{
+    top: 36%;
+    right: 41%;
+    position: absolute;
+    height: 250px;
+    width: 250px;
+}
